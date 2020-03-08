@@ -6,7 +6,7 @@ module.exports = {
   tag: pkg.version,
   // 推送的
   pushHost: '',
-  pushPrefix: '',
+  pushPrefix: 'jackness1208',
   // 自动 更新 history
   rewriteHistory: true
 

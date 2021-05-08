@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL authors="liudaojie <liudaojie@yy.com>"
+LABEL authors="jackness1208"
 
 # apt 加速
 RUN  echo "deb http://archive.ubuntu.com/ubuntu bionic main universe\n" > /etc/apt/sources.list \
